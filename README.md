@@ -3,4 +3,6 @@ Hi Guys,My Name's **Smint** And This Is My **Github Pages Website**,Where I Keep
 ![Me,Smint](https://octodex.github.com/images/inspectocat.png)
 
 - Projects
-  - ![Reddit TTS Generator](https://smintgaming.github.io/RedditTTSGenerator/index.html)
+http://github.com - automatic!
+[GitHub](http://github.com)
+//![Reddit TTS Generator](https://smintgaming.github.io/RedditTTSGenerator/index.html)
