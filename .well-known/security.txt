@@ -1,0 +1,5 @@
+Contact: mailto:smintoverflow@gmail.com
+Encryption: https://smintgaming.github.io/0x8081A187-pub.asc
+Preferred-Languages: en
+Canonical: https://smintgaming.github.io/.well-known/security.txt
+Policy: Send Exploit Details to Contact
